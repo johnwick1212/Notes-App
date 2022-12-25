@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=McLaren|Montserrat:wght@400;700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'McLaren', sans-serif;
+}
+
+
 * {
   padding: 0;
   margin: 0;
